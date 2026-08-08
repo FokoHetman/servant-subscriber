@@ -38,6 +38,7 @@ library
                      , aeson >= 0.11.2
                      , async
                      , attoparsec
+                     , attoparsec-aeson
                      , blaze-builder
                      , bytestring
                      , case-insensitive
